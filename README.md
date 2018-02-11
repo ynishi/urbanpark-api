@@ -1,12 +1,12 @@
-# urbanpark-api
+# urbanpark-api [![Build Status](https://travis-ci.org/ynishi/urbanpark-api.svg?branch=master)](https://travis-ci.org/ynishi/urbanpark-api)
 * Provide api for Japanese urban park planning data
 * using https://github.com/ynishi/urbanparkjp
 * using lambda-sdk-go
 
 ## Usage
-* clone
+* go get 
 ```
-git clone git@github.com:ynishi/urbanpark-api.git
+go get github.com/ynishi/urbanpark-api
 ```
 * build
 ```
