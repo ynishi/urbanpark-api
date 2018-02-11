@@ -4,9 +4,11 @@
 * using lambda-sdk-go
 
 ## Usage
-* go get 
+* setup 
 ```
 go get github.com/ynishi/urbanpark-api
+cd $GOPATH/src/github.com/ynishi/urbanpark-api
+dep ensure
 ```
 * build
 ```
